@@ -22,4 +22,4 @@
                     res_model="test.wizard"
                     view_mode="form"
                     target="new"
-                    key2="client_action_multi"/>111
+                    key2="client_action_multi"/>111222
